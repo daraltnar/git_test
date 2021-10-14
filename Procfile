@@ -1,1 +1,1 @@
-worker: python chatTelethon.py $PORT
+run: python proba1Telethon.py
