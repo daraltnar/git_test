@@ -1,1 +1,1 @@
-run: python proba1Telethon.py
+worker: python proba1Telethon.py
