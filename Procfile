@@ -1,1 +1,1 @@
-worker: python proba6Telethon.py
+worker: python proba5Telethon.py
