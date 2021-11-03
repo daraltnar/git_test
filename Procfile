@@ -1,1 +1,0 @@
-worker: python proba6Telethon.py
